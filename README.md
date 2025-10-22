@@ -1,6 +1,6 @@
 # BMI Calculator using OLED and 4x3 Matrix Keypad
 
-    To design and implement a **BMI (Body Mass Index) calculator** using the **STM32F103C8T6 microcontroller**, a **4x3 matrix keypad** for user input, and an **OLED display** for output visualization.
+To design and implement a **BMI (Body Mass Index) calculator** using the **STM32F103C8T6 microcontroller**, a **4x3 matrix keypad** for user input, and an **OLED display** for output visualization.
 
 ---
 
